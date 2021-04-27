@@ -1,4 +1,4 @@
-// Redesigned by t.me/TheFirstSpeedster from https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2 which was written by someone else, credits are given on Source Page.
+// Redesigned by Anshuva from https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2 which was written by someone else, credits are given on Source Page.
 // v2.0.17-alpha.2
 // Initialize the page
 function init() {
