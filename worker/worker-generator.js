@@ -46,7 +46,7 @@ async function handleRequest(request) {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
     <title>Google-Drive-Index-2021</title>
-    <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@2.0/images/favicon.ico"/>
+    <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@main/images/favicon.ico"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@0.4.1/dist/css/mdui.min.css">
     <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.1/dist/js/mdui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
