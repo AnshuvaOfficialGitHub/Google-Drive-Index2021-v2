@@ -35,12 +35,12 @@ const authConfig = {
     ]};
 const uiConfig = {
     "theme": "dark", // switch between themes, default set to dark, select from https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2#themes
-    "version": "2.0.17-alpha.3", // don't touch this one. get latest code using generator at https://indexer.world-for-free.workers.dev/
+    "version": "3.0", // don't touch this one. get latest code using generator at https://indexer.world-for-free.workers.dev/
     "logo_image": true, // true if you're using image link in next option.
     "logo_height": "", // only if logo_image is true
     "logo_width": "100px", // only if logo_image is true
     // if logo is true then link otherwise just text for name
-    "logo_link_name": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@main/images/Google-Drive-Index2021-image.png",
+    "logo_link_name": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@3.0/images/Google-Drive-Index2021-image.png",
     "fixed_header": false, // If you want the header to be flexible or fixed.
     "contact_link": "https://anshume.com", // Link to Contact Button on Menu
     "copyright_year": "2021", // year of copyright, can be anything like 2015 - 2020 or just 2020
@@ -50,8 +50,8 @@ const uiConfig = {
     "display_size": true, // Set this to false to hide display file size
     "display_time": false, // Set this to false to hide display modified time for folder and files
     "disable_player": false, // Set this to true to hide audio and video players
-    "poster": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@main/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
-    "audioposter": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@main/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
+    "poster": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@3.0/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
+    "audioposter": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@3.0/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
     "jsdelivr_cdn_src": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2", // If Project is Forked, then enter your Github repo
     "render_head_md": true, // Render Head.md
     "render_readme_md": true, // Render Readme.md
