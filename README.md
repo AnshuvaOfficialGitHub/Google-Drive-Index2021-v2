@@ -14,7 +14,7 @@ Share your Google Drive Files/Folders in a different way.
 ## How to
 
 * Stable Release `3.0` on index.sharing4care.tk
-* Beta Version (Latest) - [generator.driveindex.ga](https://index.sharing4care.tk) (Dark Theme Available)
+* Beta Version (Latest) - [index.sharing4care.tk](https://index.sharing4care.tk) (Dark Theme Available)
 * If you want to deploy main drive leave the option ROOT as it is.
 * If you want to deploy your Team Drive/Shared Drive/Folder then copy the ID and replace it with ROOT.
 * Eg. if you open this shared drive `https://drive.google.com/drive/u/0/folders/0AOM2ixxxxxXXXX` - `0AOM2ixxxxxXXXX` is its ID.
