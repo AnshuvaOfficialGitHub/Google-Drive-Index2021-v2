@@ -46,7 +46,7 @@ async function handleRequest(request) {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
     <title>Google-Drive-Index-2021</title>
-    <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@main/images/favicon.ico"/>
+    <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@3.0/images/favicon.ico"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@0.4.1/dist/css/mdui.min.css">
     <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.1/dist/js/mdui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
@@ -285,7 +285,7 @@ async function handleRequest(request) {
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 <div class="mdui-container">
     <br><br>
-    <a href="https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2"><img border="0" alt="AnshuvaOfficialGitHub" src="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@main/images/Google-Drive-Index2021-image.png" height="30px"></a><h3>Google-Drive-Index-Generator-2021-v2</h3>
+    <a href="https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2"><img border="0" alt="AnshuvaOfficialGitHub" src="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2@3.0/images/Google-Drive-Index2021-image.png" height="30px"></a><h3>Google-Drive-Index-Generator-2021-v2</h3>
     <br>
     <div class="mdui-row">
         <div class="mdui-col-sm-2">
