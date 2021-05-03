@@ -526,7 +526,7 @@ class googleDrive {
             'supportsAllDrives': true
         };
         params.q = `'${parent}' in parents and trashed = false AND name !='.password'`;
-        params.orderBy = 'folder,name,modifiedTime desc';
+        params.orderBy = 'modifiedTime desc,name,folder,';
         params.fields = "nextPageToken, files(id, name, mimeType, size , modifiedTime)";
         params.pageSize = this.authConfig.files_list_page_size;
 
@@ -613,7 +613,7 @@ class googleDrive {
         params.q = `trashed = false AND name !='.password' AND (${name_search_str})`;
         params.fields = "nextPageToken, files(id, name, mimeType, size , modifiedTime)";
         params.pageSize = this.authConfig.search_result_list_page_size;
-        params.orderBy = 'folder,name,modifiedTime desc';
+        params.orderBy = 'modifiedTime desc,name,folder,';
 
         let url = 'https://www.googleapis.com/drive/v3/files';
         url += '?' + this.enQuery(params);
