@@ -227,7 +227,7 @@ async function handleRequest(request) {
         return Response.redirect("https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2", 301)
     }
     else if (path.toLowerCase() == '/update') {
-        return Response.redirect("https://generator.driveindex.ga", 301)
+        return Response.redirect("https://index.sharing4care.tk", 301)
     }
 
     const command_reg = /^\/(?<num>\d+):(?<command>[a-zA-Z0-9]+)(\/.*)?$/g;
