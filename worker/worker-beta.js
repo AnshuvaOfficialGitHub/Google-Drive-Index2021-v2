@@ -224,7 +224,7 @@ async function handleRequest(request) {
         return fetch("https://arc.io/arc-sw.js")
     }
     else if (path.toLowerCase() == '/admin') {
-        return Response.redirect("https://bit.ly/3sAxYwr", 301)
+        return Response.redirect("https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2", 301)
     }
     else if (path.toLowerCase() == '/update') {
         return Response.redirect("https://generator.driveindex.ga", 301)
