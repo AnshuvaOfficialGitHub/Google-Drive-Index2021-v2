@@ -60,7 +60,7 @@ const uiConfig = {
     "unauthorized_owner_link": "https://anshume.com", // Unauthorized Error Page Link to Owner
     "unauthorized_owner_email": "enter your email here", // Unauthorized Error Page Owner Email
     "enable_arc": true, // If you want to use arc.io
-    "arc_code": "jfoY2h19" // arc.io Integraion Code, get yours from https://portal.arc.io
+    "arc_code": "24wpwFRJ" // arc.io Integraion Code, get yours from https://portal.arc.io
 };
 
 const FUNCS = {
