@@ -10,8 +10,8 @@ const randomserviceaccount = serviceaccounts[Math.floor(Math.random()*serviceacc
 
 const authConfig = {
     "siteName": "Google-Drive-Index-2021", // Website name
-    "client_id": "58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com", // Client id from Google Cloud Console
-    "client_secret": "ZNPZ-vS6N9Zjsyb_sNMZmXHL", // Client Secret from Google Cloud Console
+    "client_id": "202264815644.apps.googleusercontent.com", // Client id from Google Cloud Console
+    "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ", // Client Secret from Google Cloud Console
     "refresh_token": "", // Authorize token
     "service_account": false, // true if you're using Service Account instead of user account
     "service_account_json": randomserviceaccount, // appropriate values for SA, more in ReadMe file
