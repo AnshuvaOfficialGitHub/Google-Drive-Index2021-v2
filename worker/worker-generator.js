@@ -3,8 +3,8 @@ addEventListener('fetch', event => {
 });
 
 const tokenURL = 'https://www.googleapis.com/oauth2/v4/token';
-const clientId = '58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com';
-const clientSecret = 'ZNPZ-vS6N9Zjsyb_sNMZmXHL';
+const clientId = '202264815644.apps.googleusercontent.com';
+const clientSecret = 'X4Z3ca8xfWDb1Voo-F9a7ZxJ';
 const grantType = 'authorization_code';
 const redirectURI = 'urn:ietf:wg:oauth:2.0:oob';
 const jsURL = 'https://raw.githubusercontent.com/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2/main/worker/worker-beta.js';
