@@ -1,3 +1,4 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ![GitHub last commit](https://img.shields.io/github/last-commit/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2) ![GitHub repo size](https://img.shields.io/github/repo-size/AnshuvaOfficialGitHub/Google-Drive-Index2021-v2) [![Generic badge](https://img.shields.io/badge/Author-AnshuvaOfficialGitHub-red.svg)](https://shields.io/)
 # Google-Drive-Index2021-v2
 Share your Google Drive Files/Folders in a different way.
 
